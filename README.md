@@ -1,3 +1,3 @@
 # Hepsiburada android mobile basic bdd test
 
-loginTest.feature Scenario email and password write
+Type the email and password in the loginTest.feature scenario.
